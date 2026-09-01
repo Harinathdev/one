@@ -28,7 +28,7 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://34.207.248.101:8081/repository/NewArtifact/</url>
+		    <url>http://100.30.181.185:8081/repository/Test_Artifact/</url>
 		 </snapshotRepository>
 		
 		<repository>
