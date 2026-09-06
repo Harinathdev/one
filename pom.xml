@@ -30,11 +30,6 @@
 		    <id>nexusRepo</id>
 		    <url>http://100.30.181.185:8081/repository/Test_Artifact/</url>
 		 </snapshotRepository>
-		
-		<repository>
-		    <id>nexusRepo</id>
-		    <url>http://100.30.181.185:8081/repository/Test_Artifact/</url>
-		</repository>
 		<repository>
 		    <id>nexusRepo1</id>
 		    <url>http://98.83.23.151:8081/repository/testrepo/</url>
