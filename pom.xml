@@ -35,14 +35,6 @@
 		    <url>http://98.83.23.151:8081/repository/testrepo/</url>
 		</repository>
   	</distributionManagement>
-	
-	<pluginRepositories>
-	    <pluginRepository>    
-		<id>maven1</id>
-		<name>Maven.org</name>
-		<url>http://100.31.142.191:8081/repository/maven-deploy/</url>
-	    </pluginRepository>
-	</pluginRepositories>
 
 	<build>
     <plugins>
