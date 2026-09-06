@@ -43,6 +43,12 @@
             <artifactId>maven-war-plugin</artifactId>
             <version>3.4.0</version>
         </plugin>
+
+		<plugin>
+            <groupId>org.sonarsource.scanner.maven</groupId>
+            <artifactId>sonar-maven-plugin</artifactId>
+            <version>5.4.0.6343</version>
+        </plugin>
     </plugins>
 </build>
 
